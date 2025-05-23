@@ -83,3 +83,5 @@
 Tableau: https://public.tableau.com/app/profile/chaipot.rutamornchai6341/viz/Project_Marketing_17480064448470/Story1?publish=yes
 
 Youtube: https://www.youtube.com/watch?v=hyBMHr7LNVc&ab_channel=Sand
+
+Original Data: https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign
