@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/a200cafc-b8ab-40b7-a790-525aadf6697c)# Marketing Campaign Analysis
+**Marketing Campaign Analysis**
+
 **Project Canva**
 ![image](https://github.com/user-attachments/assets/60b17cfc-e4e5-4a5a-ba50-0c53f00a52aa)
 
