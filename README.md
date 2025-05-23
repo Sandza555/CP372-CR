@@ -6,7 +6,7 @@
 
 **Data Preparation**
 
-เราได้ทำการใช้ Python ในการ Clean Data และ Feature Engineering ใน colab ![link](https://colab.research.google.com/drive/1kkNg7ndzoGxTZtnqvvhKNqzcDLeLuDSQ?usp=sharing) เราได้ผบค่า Null 24 ค่าจากทั้งหมด 2240 ค่าเราจึงตัดสินใจที่จะลบข้อมูลออกไป, เช็คและลบค่า outlier
+เราได้ทำการใช้ Python ในการ Clean Data และ Feature Engineering ใน colab https://colab.research.google.com/drive/1kkNg7ndzoGxTZtnqvvhKNqzcDLeLuDSQ?usp=sharing เราได้ผบค่า Null 24 ค่าจากทั้งหมด 2240 ค่าเราจึงตัดสินใจที่จะลบข้อมูลออกไป, เช็คและลบค่า outlier
 ในด้านของ Feature Engineering เราได้เปลี่ยน Year_Birth เป็น Age เพื่อความสะดวกในการใช้งาน, รวม kidhome และ teenhome เป็น Have_child แทน, ปรับ Marital_Status ให้มีแค่ Single กับ Couple แทน, สร้าง Column ผลรวมรายได้ทั้งหมด, สร้าง Column แสดงอายุสมาชิกของลูกค้า, สร้าง Column Total_Campaign_accept เพื่อดูว่าลูกค้าคนนี้ตอบรับ Campaign ของเรากี่รอบแล้ว
 
 **Exploratory Data Analysis**
@@ -80,6 +80,6 @@
 
   ** Link**
 
-Tableau: ![link](https://public.tableau.com/app/profile/chaipot.rutamornchai6341/viz/Project_Marketing_17480064448470/Story1?publish=yes)
+Tableau: https://public.tableau.com/app/profile/chaipot.rutamornchai6341/viz/Project_Marketing_17480064448470/Story1?publish=yes
 
-Youtube: ![link](https://www.youtube.com/watch?v=hyBMHr7LNVc&ab_channel=Sand)
+Youtube: https://www.youtube.com/watch?v=hyBMHr7LNVc&ab_channel=Sand
